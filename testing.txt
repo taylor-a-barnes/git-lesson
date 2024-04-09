@@ -3,6 +3,7 @@ This is	the start of testing.txt
 ***************************************
 
 I added this file from a clone!
+This is a middle line.
 Now I added a new line!
 
 ***************************************
