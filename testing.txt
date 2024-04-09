@@ -7,6 +7,7 @@ Here is a second line.
 This is a middle line.
 Now I added a new line!
 I added this line from the GitHub web interface.
+I added this line via a PR.
 
 ***************************************
 This is	the end	of testing.txt
